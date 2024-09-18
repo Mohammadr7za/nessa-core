@@ -36,7 +36,7 @@ export default async function RootLayout({
       <body
         // to prevent any warning that is caused by third party extensions like Grammarly
         suppressHydrationWarning
-        className={cn(inter.variable, lexendDeca.variable, iranSansFont.className, 'font-inter')}
+        className={cn(iranSansFont.variable, 'font-iransans')}
       >
         <AuthProvider session={session}>
           <ThemeProvider>

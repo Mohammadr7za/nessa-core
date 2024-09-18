@@ -70,8 +70,9 @@ const config: Omit<Config, "content"> = {
         },
       },
       fontFamily: {
-        inter: ["var(--font-inter)"],
-        lexend: ["var(--font-lexend)"],
+        // inter: ["var(--font-inter)"],
+        // lexend: ["var(--font-lexend)"],
+        iransans: ["var(--font-iransans)"],
       },
       // required these animations for the Loader component
       animation: {
