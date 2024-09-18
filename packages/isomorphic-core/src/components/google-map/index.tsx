@@ -24,7 +24,7 @@ export default function GoogleMap() {
         size: 'lg',
         type: 'text',
         rounded: 'pill',
-        placeholder: 'Search for a location',
+        placeholder: 'جستجو',
         className: 'absolute z-10 flex-grow block right-7 left-7 top-7',
         inputClassName: 'bg-white dark:bg-gray-100 border-0',
       }}

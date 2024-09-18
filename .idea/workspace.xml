@@ -4,7 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41da40bc-cf95-4e1c-bce4-83a36ba70af6" name="Changes" comment="first init" />
+    <list default="true" id="41da40bc-cf95-4e1c-bce4-83a36ba70af6" name="Changes" comment="first init12">
+      <change afterPath="$PROJECT_DIR$/apps/isomorphic/public/fonts/FontsFree-Net-ir_sans.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/public/apple-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/apps/isomorphic/public/apple-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/apps/isomorphic/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/public/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/apps/isomorphic/public/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/public/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/apps/isomorphic/public/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/app/(hydrogen)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/isomorphic/src/app/(hydrogen)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/app/fonts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/isomorphic/src/app/fonts.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/isomorphic/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/app/shared/search/search-trigger.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/isomorphic/src/app/shared/search/search-trigger.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/config/enums.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/isomorphic/src/config/enums.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/beryllium-icon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/beryllium/beryllium-fixed-menu-items.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/beryllium/beryllium-header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/beryllium/beryllium-layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/beryllium/beryllium-left-sidebar-fixed.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/beryllium/beryllium-sidebar-drawer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/beryllium/beryllium-sidebar-expanded.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/beryllium/beryllium-sidebar-menu-items.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/beryllium/beryllium-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/boron-icon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/boron/boron-header-menu-right.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/boron/boron-header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/boron/boron-layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/boron/boron-menu-items.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/boron/boron-sidebar-menu.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/boron/boron-sidebar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/boron/boron-utils.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/carbon-icon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/carbon/carbon-drawer-sidebar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/carbon/carbon-header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/carbon/carbon-layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/carbon/carbon-menu-items.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/carbon/carbon-sidebar-menu.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/carbon/carbon-sidebar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/carbon/need-support.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/carbon/profile-card-menu.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/carbon/work-space-switcher.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/helium-icon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/helium/helium-header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/helium/helium-layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/helium/helium-menu-items.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/helium/helium-sidebar-menu.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/helium/helium-sidebar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/lithium-icon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/lithium/bullet-icon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/lithium/lithium-header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/lithium/lithium-layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/lithium/lithium-menu-icons.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/lithium/lithium-menu-items.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/lithium/lithium-menu.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/lithium/use-pathname-active.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/settings-drawer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/isomorphic/src/layouts/settings-drawer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/isomorphic/src/layouts/use-layout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/isomorphic/src/layouts/use-layout.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/isomorphic-core/src/components/google-map/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/isomorphic-core/src/components/google-map/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/isomorphic-core/src/hooks/use-direction.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/isomorphic-core/src/hooks/use-direction.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +76,9 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2mEoosrIM3FhVzXsQNATauEbEUH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,15 +89,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "I:/_App/Saba/nessa-core/apps/isomorphic/public/fonts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
     "prettierjs.PrettierConfiguration.Package": "I:\\_App\\Saba\\nessa-core\\node_modules\\prettier",
+    "ts.external.directory.path": "I:\\_App\\Saba\\nessa-core\\apps\\isomorphic\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\_App\Saba\nessa-core\apps\isomorphic\public\fonts" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726651275998</updated>
-      <workItem from="1726651277632" duration="508000" />
+      <workItem from="1726651277632" duration="4384000" />
     </task>
     <task id="LOCAL-00001" summary="first init">
       <option name="closed" value="true" />
@@ -72,7 +138,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726651785894</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first init1">
+      <option name="closed" value="true" />
+      <created>1726651949480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726651949480</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first init12">
+      <option name="closed" value="true" />
+      <created>1726651967336</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726651967336</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +163,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="first init" />
-    <option name="LAST_COMMIT_MESSAGE" value="first init" />
+    <MESSAGE value="first init1" />
+    <MESSAGE value="first init12" />
+    <option name="LAST_COMMIT_MESSAGE" value="first init12" />
   </component>
 </project>

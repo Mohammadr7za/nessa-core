@@ -1,27 +1,29 @@
-'use client';
-import { atom, useAtom } from 'jotai';
+"use client";
+import { atom, useAtom } from "jotai";
 
 // 1. set initial atom for isomorphic direction
-const isomorphicDirectionAtom = atom(
-  typeof window !== 'undefined' ? localStorage.getItem('iso-direction') : 'ltr'
-);
+// const isomorphicDirectionAtom = atom(
+//   typeof window !== 'undefined' ? localStorage.getItem('iso-direction') : 'ltr'
+// );
+const isomorphicDirectionAtom = atom("rtl");
 
 const isomorphicDirectionAtomWithPersistence = atom(
   (get) => get(isomorphicDirectionAtom),
   (get, set, newStorage: any) => {
     set(isomorphicDirectionAtom, newStorage);
-    localStorage.setItem('iso-direction', newStorage);
-  }
+    localStorage.setItem("iso-direction", newStorage);
+  },
 );
 
 // 2. useDirection hook to check which direction is available
 export function useDirection() {
   const [direction, setDirection] = useAtom(
-    isomorphicDirectionAtomWithPersistence
+    isomorphicDirectionAtomWithPersistence,
   );
 
   return {
-    direction: direction === null ? 'ltr' : direction,
+    // direction: direction === null ? "ltr" : direction,
+    direction: "rtl",
     setDirection,
   };
 }
